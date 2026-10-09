@@ -121,7 +121,7 @@ git diff --check
 | 李可玥 | — |
 | 王争帅 | — |
 | 熊梓淇 | — |
-| 嘎松卓玛 | — |
+| 嘎松卓玛 | [GS-18 ](https://github.com/GS-18)|
 | 贵桑德吉 | — |
 | 张力文 | [alexwen111](https://github.com/alexwen111) |
 | 王涛 | [wt192349](https://github.com/wt192349) |
